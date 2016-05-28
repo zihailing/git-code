@@ -1,0 +1,7 @@
+#/bin/sh
+git init
+git add (the files)
+git status
+git commit -m "the description of the files"
+git remote add origin git@github.com:zihailing/ChIP-seq.git
+git push -f origin
