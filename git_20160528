@@ -12,3 +12,6 @@ git push
 git log
 git checkout XXXX(commit)
 git checkout master(branch)
+################differences between versions#################
+git diff XXXX(commit1) XXXX(commit2)
+git diff XXXX(commit)
