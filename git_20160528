@@ -8,3 +8,7 @@ git push -f origin
 ###############resolve the error report######################
 git remote set-url origin ssh://github.com/zihailing/ChIP-seq.git
 git push
+################checkout different version###################
+git log
+git checkout XXXX(commit)
+git checkout master(branch)
